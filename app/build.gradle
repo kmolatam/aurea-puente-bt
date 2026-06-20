@@ -4,13 +4,18 @@ plugins {
 
 android {
     namespace 'com.kmo.aureaprintbridge'
-    compileSdk 36
+    compileSdk 35
 
     defaultConfig {
         applicationId 'com.kmo.aureaprintbridge'
         minSdk 23
-        targetSdk 36
-        versionCode 3
-        versionName '0.2.1-rescate-silencioso'
+        targetSdk 35
+        versionCode 4
+        versionName '0.2.2-rescate-stable'
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
     }
 }

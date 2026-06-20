@@ -1,4 +1,4 @@
-# Áurea Print Bridge RESCATE v0.2.1
+# Áurea Print Bridge RESCATE v0.2.2 STABLE
 
 Este APK es SOLO el puente de impresión Bluetooth. Úsalo para la iMin/tablet fija. No trae POS integrado ni Urovo; evita el error `android.device.PrinterManager`.
 
