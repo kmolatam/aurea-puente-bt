@@ -1,17 +1,15 @@
-plugins {
-    id 'com.android.application'
-}
+plugins { id 'com.android.application' }
 
 android {
-    namespace 'com.kmo.aureaprintbridge'
+    namespace 'com.kmo.aureamesero'
     compileSdk 35
 
     defaultConfig {
-        applicationId 'com.kmo.aureaprintbridge'
+        applicationId 'com.kmo.aureamesero'
         minSdk 23
         targetSdk 35
-        versionCode 4
-        versionName '0.2.2-rescate-stable'
+        versionCode 1
+        versionName '0.1.0'
     }
 
     compileOptions {
